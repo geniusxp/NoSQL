@@ -32,12 +32,14 @@ npm install
 
 ## Instale o pacote dotenv:
 
-npm install mongo dotenv
+npm install mongodb dotenv
 
 ## Configure as variáveis de ambiente:
 
 Crie um arquivo .env na raiz do projeto e adicione as seguintes variáveis (ajuste os valores conforme necessário):
+
 MONGO_HOST=mongodb://127.0.0.1:27017
+
 MONGO_DATABASE=geniusxp
 
 ## Inicie o servidor:
