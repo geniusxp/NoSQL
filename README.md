@@ -16,6 +16,9 @@ Certifique-se de ter o seguinte software instalado em sua máquina:
 Node.js
 MongoDB
 
+## video demmonstrativo
+https://youtu.be/eJv2qUz3-2Q
+
 ## Passo a Passo
 Clone o repositório:
 
