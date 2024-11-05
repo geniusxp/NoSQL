@@ -30,7 +30,7 @@ cd NoSQL
 
 npm install
 
-## Instale o pacote dotenv:
+## Instale o pacote dotenv caso não tenha:
 
 npm install mongodb dotenv
 
